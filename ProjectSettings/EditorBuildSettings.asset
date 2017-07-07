@@ -13,7 +13,7 @@ EditorBuildSettings:
     guid: d2d6a75c233e2f844bfb9021f142b3c1
   - enabled: 1
     path: Assets/Scenes/SinglePlayer.unity
-    guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: Assets/Scenes/UnityUI/Test.unity
+    guid: 442a91d1386cef94db5d35248d3bc161
+  - enabled: 0
+    path: 
     guid: bb712e4335235394f9e4695f7881947b
